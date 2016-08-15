@@ -1,0 +1,8 @@
+<html>
+<head>
+	<title>xtemplate</title>
+</head>
+<body>
+	<div style="border:1px red solid">{{title}}</div>
+</body>
+</html>
